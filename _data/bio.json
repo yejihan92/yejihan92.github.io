@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Yeji Han",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://yejihan92.github.io/images/yejihan.jepg",
+    "email": "hany7@hawaii.edu",
+    "phone": "808-260-3860",
+    "website": "https://yejihan92.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
-      "address": "",
+      "address": "1674 Lewalani dr #B",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "yejihan92",
+        "url": "http://github.com/yejihan92"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "hany7@hawaii.edu",
+        "url": "http://linkedin.com/in/yeji-han-063b231b5"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "java",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "game",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "software engineering",
       "keywords": [
       ]
     }
