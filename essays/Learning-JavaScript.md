@@ -8,7 +8,7 @@ labels:
   - JavaScript
   - Engineering
 ---
-<img class="ui image" src="/images/java_javaScript.png">
+<img class="ui image" src="/images/java_javaScript.png" width="80%" height="80%"/>
 
 ## Java vs. JavaScript
 
