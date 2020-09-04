@@ -9,11 +9,11 @@ labels:
   - Engineering
 ---
 <p align="center">
-<img class="ui image" src="/images/java_javaScript.png" width="100%" height="100%"/>
+<img class="ui image" src="/images/java_javascript2.png" width="70%" height="100%"/>
   </p>
 
 
-## Java vs. JavaScript
+## Java != JavaScript
 
 Java and JavaScript, both languages contain "Java" in their names, but there are huge differences in the paradigms and pursuits of each language. Before I learned JavaScript, I also thought JavaScript was easier because I had a biased idea that it wasn't much different from a similar context. Of course, Java isn't easy, and I've been taking ICS111 and ICS211 classes so far, so I thought that the ICS314 course would have a lower barrier to entry than learning other languages.
 </br>
