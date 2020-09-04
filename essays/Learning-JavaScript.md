@@ -8,8 +8,7 @@ labels:
   - JavaScript
   - Engineering
 ---
-<br />
-<br />
+
 <p align="center">
 <img class="ui image" src="/images/java_javascript2.png" width="50%" height="60%"/>
  </p>
