@@ -8,6 +8,8 @@ labels:
   - JavaScript
   - Engineering
 ---
+<br />
+<br />
 <p align="center">
 <img class="ui image" src="/images/java_javascript2.png" width="50%" height="60%"/>
  </p>
@@ -17,6 +19,7 @@ labels:
 <ul>
 Java and JavaScript, both languages contain "Java" in their names, but there are huge differences in the paradigms and pursuits of each language. Before I learned JavaScript, I also thought JavaScript was easier because I had a biased idea that it wasn't much different from a similar context. Of course, Java isn't easy, and I've been taking ICS111 and ICS211 classes so far, so I thought that the ICS314 course would have a lower barrier to entry than learning other languages.
 </ul>
+<br />
 <br />
 <br />
 <br />
@@ -33,6 +36,7 @@ Java and JavaScript, both languages contain "Java" in their names, but there are
      <li>As the usage of smartphones increases, the use of web applications also increases, and the role of the client (browser) has become very important.   Learning JavaScript to manipulate clients is productive. </li> <br />
      <li>As a result of a search for information about JavaScript, JavaScript has gained popularity and developed with many developers, and at the same time, open source JavaScript libraries and frameworks that anyone can use have appeared. Therefore, if we have basic knowledge of JavaScript in ICS314 class, we can develop web application without developing complex code. </li> <br />
 </ul>
+<br />
 <br />
 <br />
 <br />
