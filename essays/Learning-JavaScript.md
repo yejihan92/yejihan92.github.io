@@ -10,7 +10,7 @@ labels:
 ---
 <p align="center">
 <img class="ui image" src="/images/java_javascript2.png" width="50%" height="60%"/>
-  </p>
+ </p>
 
 ## Java != JavaScript
 
@@ -19,7 +19,9 @@ Java and JavaScript, both languages contain "Java" in their names, but there are
 </ul>
 <br />
 <br />
-
+<br />
+<br />
+<br />
 
 <p align="center">
 <img class="ui image" src="/images/JavaScript.jpg" width="90%" height="300"/>
@@ -27,11 +29,13 @@ Java and JavaScript, both languages contain "Java" in their names, but there are
   
 ## The good things about learning JavaScript (very subjective thoughts)
 
-
 <ul> <li>Since it can be used in multiple environments, if we learn JavaScript, we can develop applications for that environment. </li> <br />
      <li>As the usage of smartphones increases, the use of web applications also increases, and the role of the client (browser) has become very important.   Learning JavaScript to manipulate clients is productive. </li> <br />
      <li>As a result of a search for information about JavaScript, JavaScript has gained popularity and developed with many developers, and at the same time, open source JavaScript libraries and frameworks that anyone can use have appeared. Therefore, if we have basic knowledge of JavaScript in ICS314 class, we can develop web application without developing complex code. </li> <br />
 </ul>
+<br />
+<br />
+<br />
 <br />
 <br />
 
@@ -46,3 +50,5 @@ The great point of the ICS314 class is that there are currently non-face-to-face
 </ul>
 <br />
 <br />
+<br />
+
