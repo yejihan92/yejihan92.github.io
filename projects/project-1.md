@@ -13,8 +13,11 @@ labels:
 summary: A program that has four functions using bitwise operators of UH UNIX shell
 ---
 
-<img class="ui medium left floated image" src="../images/bitwise4.png">
-
+<br />
+<br />
+<p align="center">
+<img class="ui image" src="/images/pokemonBattle2.jpg" width="50%" height="60%"/>
+</p>
 ## Bitwise Project (KCC ICS212 project)
 
 This Bitwise program is to write a program that contains 4 functions that take 6 command line arguments and use bitwise operators. One of the reasons this project was so important was its deep connection to the final project of the ICS212 class. Briefly explaining what the program should do, the user has to enter command-line arguments separated by 6 spaces. Next, the user needs to enter 4 characters (all ASCII characters) followed by 2 integers. If 4 characters and 2 integers separated by 6 spaces are not entered in sequence, the program should print an error message telling the user the correct input and exit the program.
