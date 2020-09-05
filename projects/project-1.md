@@ -13,9 +13,7 @@ labels:
 summary: A program that has four functions using bitwise operators of UH UNIX shell
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/bitwise4.png">
-</div>
+<img class="ui medium left floated image" src="../images/bitwise4.png">
 
 ## Bitwise Project (KCC ICS212 project)
 
