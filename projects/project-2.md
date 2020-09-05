@@ -13,7 +13,7 @@ labels:
 summary: GUI (Graphical User Interface) for a hierarchy of Pokemon species that works similarly to Pokemon Go without GPS
 ---
 
-<img class="ui medium right floated rounded image" src="../images/pokedex.png">
+<img class="ui medium left floated image" src="../images/pokedex.png">
 
 The PokeGUI project is to get creative and build a GUI (Graphical User Interface) for a hierarchy of Pokemon species that works similarly to Pokemon Go without GPS.
 
@@ -21,4 +21,4 @@ In the program, we wrote the program in such a way that we provide the user with
 
 Since this program was conducted in groups, it was a little more fun and meaningful. The most interesting thing was that while studying Java in the ICS211 class, we were able to complete the project with fun because we made a topic that anyone called Pokemon would have encountered once in a while as a child. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: [yejihan92/pokeGUI-ICS211-project](https://github.com/yejihan92/pokeGUI-ICS211-project).
