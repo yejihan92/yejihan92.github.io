@@ -26,5 +26,4 @@ First of all, this project is largely classified into three categories. In the f
 
 What I feel most regretful about this project is the regrettable finish in terms of completeness. I think this is a project that feels insufficient in terms of completeness because time is tight. Every task is a fight against time. That's why it's really important to manage your time, but when the remaining time is over, it's most important to compromise the project's completeness appropriately and finish it in time.
 
-More details for code: [yejihan92/ICS211-Pokemon-Battle-project](https://github.com/yejihan92/ICS211-Pokemon-Battle-project).
 
