@@ -1,8 +1,8 @@
 ---
 layout: project
-type: PokeGUI (KCC ICS211 project)
+type: project
 image: images/pokedex.png
-title: Pokemon GUI
+title: Pokemon GUI (KCC ICS211 project)
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04
