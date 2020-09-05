@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/pokemonBattle.png
-title: Pokemon Battle!
-permalink: projects/cotton
+title: Pokemon Battle Game
+permalink: projects/pokemon
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04
 labels:
@@ -12,7 +12,12 @@ labels:
   - GitHub
 summary: Pokemon battle game I developed for ICS 211.
 ---
-<img class="ui medium left floated image" src="../images/pokemonBattle2.jpg">
+<br />
+<br />
+<p align="center">
+<img class="ui image" src="/images/pokemonBattle2.jpg" width="100%" height="100%"/>
+</p>
+ 
 ## Pokemon Battle!
 
 The Pokemon Battle Game is probably the most interesting project among ICS211 projects. This was so much fun and I am sure it will be the most interesting to users of the projects I have ever created.
