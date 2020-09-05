@@ -1,25 +1,24 @@
 ---
 layout: project
-type: project
+type: PokeGUI (KCC ICS211 project)
 image: images/vacay-square.png
-title: Vacay
+title: Pokemon GUI
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-09-04
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - Pokemon
+  - GUI
+summary: GUI (Graphical User Interface) for a hierarchy of Pokemon species that works similarly to Pokemon Go without GPS
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/pokedex.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The PokeGUI project is to get creative and build a GUI (Graphical User Interface) for a hierarchy of Pokemon species that works similarly to Pokemon Go without GPS.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+In the program, we wrote the program in such a way that we provide the user with a "Hunt" button to hunt, and the "Catch" button to obtain the hunted Pokémon if the user succeeds in the hunt, otherwise miss it. Also, since the Pokémon that can be hunted comes out randomly, we designed it to attract more interest to the user.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Since this program was conducted in groups, it was a little more fun and meaningful. The most interesting thing was that while studying Java in the ICS211 class, we were able to complete the project with fun because we made a topic that anyone called Pokemon would have encountered once in a while as a child. 
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
