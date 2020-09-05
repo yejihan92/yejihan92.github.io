@@ -21,3 +21,5 @@ In the program, we wrote the program in such a way that we provide the user with
 
 Since this program was conducted in groups, it was a little more fun and meaningful. The most interesting thing was that while studying Java in the ICS211 class, we were able to complete the project with fun because we made a topic that anyone called Pokemon would have encountered once in a while as a child. 
  
+<br />
+<br />
