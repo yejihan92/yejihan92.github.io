@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Bitwise operators.png
 title: Bitwise Project
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
