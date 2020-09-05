@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/pokemon.jpg
 title: Pokemon GUI (KCC ICS211 project)
-permalink: projects/vacay
+permalink: projects/pokeGUI
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04
 labels:
