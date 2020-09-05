@@ -7,10 +7,10 @@ permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - C language
+  - C programming
+  - Bitwise
+summary: A program that has four functions using bitwise operators of UH UNIX shell
 ---
 
 <div class="ui small rounded images">
@@ -20,25 +20,68 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+## Bitwise Project (KCC ICS212 project)
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+This Bitwise program is to write a program that contains 4 functions that take 6 command line arguments and use bitwise operators. One of the reasons this project was so important was its deep connection to the final project of the ICS212 class. Briefly explaining what the program should do, the user has to enter command-line arguments separated by 6 spaces. Next, the user needs to enter 4 characters (all ASCII characters) followed by 2 integers. If 4 characters and 2 integers separated by 6 spaces are not entered in sequence, the program should print an error message telling the user the correct input and exit the program.
+<br />
+<br />
+<br />
+<br />
 
-Here is some code that illustrates how we read values from the line sensors:
-
+Run the program and convert the command line input to "unsigned char" and "unsigned int" data types. If a negative integer input, unsigned is a part that we must pay attention to as there is no negative integer, so we should be careful looping. Looking at each function of the function,
 ```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
+int twoComplement(unsigned int number) {
+    int onesComplement = ~number;
+    return onesComplement + 1;
 }
 ```
+twoComplement function needs to calculate the two's complement of the input parameter, so use "~" to return.
+<br />
+```js
+unsigned int charPacker(unsigned char ch1, unsigned char ch2, unsigned char ch3, unsigned char ch4) {
+    unsigned int number = 0;
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+    number = (number | ch1) << 8;
+    number = (number | ch2) << 8;
+    number = (number | ch3) << 8;
+    number = number | ch4;
+
+    return number;
+}
+```
+charPacker function compresses 4 characters into a single integer, so 8-bit characters are compressed into 32-bit integers using the left shift operator << and the bitwise OR operator |.
+<br />
+```js
+void intChopper(unsigned int number, unsigned char* ch1, unsigned char* ch2, unsigned char* ch3, unsigned char* ch4) {
+    unsigned int mask = 0x000000FF;
+
+    *ch4 = number & mask;
+    *ch3 = (number >> 8) & mask;
+    *ch2 = (number >> 8) & mask;
+    *ch1 = (number >> 8) & mask;
+}
+```
+Conversely, intChopper function truncates the integer into 4 characters and uses the right shift operator >> and bitwise AND operator & with a mask to separate the 32-bit integer into 4 8-bit parts.
+<br />
+```js
+unsigned int circleLeft(unsigned int count, unsigned int number) {
+    return (number << count) | (number >> (32 - count));
+}
+```
+circleLeft function is to perform a circular left shift of the bit, so it can be written as above.
+<br />
+<br />
+<br />
+<br />
+
+In C programming, bit operators are basic content, but bit operators are important because they are a helpful concept when processing signals related to hardware, and it is a content that developers who do C programming must know exactly. Therefore, I learned the basic principle of working bitwise through this project that numbers on a computer don't really behave like numbers.
+<br />
+<br />
+<br />
+<br />
+You can see more details about my Bitwise program https://github.com/yejihan92/Bitwise-ICS211-project
+
+You can learn more about c language bitwise at the [Programiz Website](https://www.programiz.com/c-programming/bitwise-operators).
 
 
 
