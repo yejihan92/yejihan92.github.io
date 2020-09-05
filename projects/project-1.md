@@ -16,7 +16,7 @@ summary: A program that has four functions using bitwise operators of UH UNIX sh
 <br />
 <br />
 <p align="center">
-<img class="ui image" src="/images/bitwise4.png" width="70%" height="80%"/>
+<img class="ui image" src="/images/bitwise4.png" width="100%" height="100%"/>
 </p>
 ## Bitwise Project (KCC ICS212 project)
 
