@@ -14,7 +14,7 @@ summary: A program that has four functions using bitwise operators of UH UNIX sh
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/bitwise1.png" "width="100%" height="100%"/>
+  <img class="ui image" src="../images/bitwise1.png" "width="10%" height="10%"/>
 </div>
 
 ## Bitwise Project (KCC ICS212 project)
@@ -76,9 +76,12 @@ In C programming, bit operators are basic content, but bit operators are importa
 <br />
 <br />
 <br />
-You can see more details about my Bitwise program https://github.com/yejihan92/Bitwise-ICS211-project
+You can see more details about my Bitwise program [https://github.com/yejihan92/Bitwise-ICS211-project]
 
 You can learn more about c language bitwise at the [Programiz Website](https://www.programiz.com/c-programming/bitwise-operators).
 
-
+<br />
+<br />
+<br />
+<br />
 
