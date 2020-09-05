@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Bitwise operators.png
 title: Bitwise Project
-permalink: projects/micromouse
+permalink: projects/bitwise
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
