@@ -12,10 +12,7 @@ labels:
   - GitHub
 summary: Pokemon battle game I developed for ICS 211.
 ---
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/pokemonBattle2.jpg">
-</div>
-
+<img class="ui medium left floated image" src="../images/pokemonBattle2.jpg">
 ## Pokemon Battle!
 
 The Pokemon Battle Game is probably the most interesting project among ICS211 projects. This was so much fun and I am sure it will be the most interesting to users of the projects I have ever created.
