@@ -10,7 +10,7 @@ labels:
   - Pokemon
   - Game
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: Pokemon battle game I developed for ICS 211.
 ---
 <div class="ui small rounded images">
   <img class="ui image" src="../images/pokemonBattle2.jpg">
