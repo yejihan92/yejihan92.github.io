@@ -77,7 +77,7 @@ In C programming, bit operators are basic content, but bit operators are importa
 <br />
 <br />
 
-You can see more details about my Bitwise program [yejihan92/Bitwise-ICS211](https://github.com/yejihan92/Bitwise-ICS211-project).
+You can see more details about my Bitwise program [yejihan92/Bitwise-ICS212](https://github.com/yejihan92/Bitwise-ICS211-project).
 
 You can learn more about c language bitwise at the [Programiz Website](https://www.programiz.com/c-programming/bitwise-operators).
 
