@@ -116,3 +116,7 @@ You can see more detais at the [Bad Question Example](https://stackoverflow.com/
 We need to look at an example of this question. Such a simple problem can be solved really simply by simply search Google or browsing our computer directory with the least amount of time.
 
 ## Conclusion
+
+In conclusion, in order to ask good questions about the program, even the same problem should be summarized with maximum effort. If the question itself is longer and more complex, there are many programmers who do not read it. Therefore, we must develop the ability to summarize problems as clearly and accurately as possible. I found a good way of StackOverflow during looking for good and bad questions on the site, and I think we need to learn Markdown to ask good questions. If the questions are well organized through Markdown, the viewer is comfortable and the questioner is more likely to get answers to the questions.
+
+
