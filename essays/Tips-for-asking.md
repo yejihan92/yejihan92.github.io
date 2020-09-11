@@ -105,7 +105,6 @@ at java.base/java.lang.Integer.parseInt(Integer.java:770) at searchSorting.main(
 Others solutions to this problem just don't seem to apply to me somehow. Thanks for the help
 
 ```
-
 URL: https://stackoverflow.com/questions/63839319/java-lang-numberformatexception-error-after-inputting-a-number
 
 One of the reasons this question has the same situation to me that I sometimes feel silly when I keep getting the same error when writing assignments or program code. Having had the same experience in the questioner's writing, I can see that he went through a lot of trial and error. And he can see if he thought and tried various attempts and methods to solve the problem. The respondent who answered the question also solved the problem by simply fixing two lines. I think this is one of the great examples of StackOverFlow where there are great programmers who can solve small mistakes we don't see. 
@@ -120,7 +119,6 @@ One of the reasons this question has the same situation to me that I sometimes f
 </p>
 
 There are a lot of great questions on StackOverflow, but there are a few things we should avoid. First of all, we should avoid asking questions simply to solve a task without any effort. This makes it impossible for us to program in the future to be creative thinking of programmers. When I can't solve the problem and want to give up due to continuous errors, I think that the greatest attraction of the program is when I solve the errors and succeed and it is the most meaningful. In addition to that, duplicate questions and answers should be avoided. Recently, in Korea, a new era language called "Finger Princess" has emerged when people ask other people around them without even searching for a problem. So, we have to look for similar answers or similar examples to our problem that someone has already done.
-
 ```js
 If I save my A Package in a different directory and trying to import A Package from B Program, how do I do that?
 
@@ -129,7 +127,6 @@ How java finds my package?
 I am an android beginner please relate a bit to android as well!
 }
 ```
-
 URL: https://stackoverflow.com/questions/63840848/how-import-keyword-find-other-packages
 
 We need to look at an example of this question. Such a simple problem can be solved really simply by simply search Google or browsing our computer directory with the least amount of time.
