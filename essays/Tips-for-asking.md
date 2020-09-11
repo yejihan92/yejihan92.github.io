@@ -40,8 +40,7 @@ Many programmers in the world face a lot of challenges while programming. Everyo
 
 There are countless times while programming we come across errors or unknown problems. In that case, just “No! I can't!” Instead of asking for help without any effort, we should think about ourselves enough to solve the problem and ask a question that people feel what we have done for solving the problem. StackOverflow is a question and answer site for professionals and avid programmers, so looking at specific questions and code is why software developers can get useful information most of the time from this website. Let's look at a good example of a StackOverflow question that shows signs of specific and varied attempts.
 <br />
-
-```js
+```
 import java.util.Scanner;
 import java.util.Arrays;
 public class searchSorting 
@@ -119,7 +118,7 @@ One of the reasons this question has the same situation to me that I sometimes f
 </p>
 
 There are a lot of great questions on StackOverflow, but there are a few things we should avoid. First of all, we should avoid asking questions simply to solve a task without any effort. This makes it impossible for us to program in the future to be creative thinking of programmers. When I can't solve the problem and want to give up due to continuous errors, I think that the greatest attraction of the program is when I solve the errors and succeed and it is the most meaningful. In addition to that, duplicate questions and answers should be avoided. Recently, in Korea, a new era language called "Finger Princess" has emerged when people ask other people around them without even searching for a problem. So, we have to look for similar answers or similar examples to our problem that someone has already done.
-```js
+```
 If I save my A Package in a different directory and trying to import A Package from B Program, how do I do that?
 
 How java finds my package?
