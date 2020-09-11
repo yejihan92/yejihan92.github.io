@@ -5,7 +5,7 @@ image: images/Bitwise operators.png
 title: Bitwise Project
 permalink: projects/bitwise
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-04
+date: 2020-03-26
 labels:
   - C language
   - C programming
