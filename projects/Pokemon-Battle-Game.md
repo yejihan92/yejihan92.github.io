@@ -5,7 +5,7 @@ image: images/pokemonBattle.png
 title: Pokemon Battle Game
 permalink: projects/pokemon
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-04
+date: 2020-03-16
 labels:
   - Pokemon
   - Game
