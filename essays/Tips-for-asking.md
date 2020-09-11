@@ -11,15 +11,17 @@ labels:
   - Software 
 ---
 
+<ul>
+  
 <br />
 <br />
 <p align="center">
 <img class="ui image" src="/images/Stackoverflow.png" width="50%" height="60%"/>
- </p>
+</p>
 
-<ul>
 
 ## Communication with StackOverflow
+
 
 Many programmers in the world face a lot of challenges while programming. Everyone who has ever experienced programming often has to ask about unknown and unresolved errors. In this case, many programmers nowadays use the open-source community StackOverflow to solve the problem efficiently. In the absence of such as StackOverflow that the open-source community, people who lived in the past read all the books on numerous programs to the people around them and tried to find the cause of the problem and solve it. The open-source community StackOverflow is where programmers from around the world communicate, also, anyone can belong together. There are good questions and answers, but there are many low-quality questions and answers, so there are times when people who asked questions about programs get satisfactory results, and sometimes they get unsatisfactory results. In order for us to program effectively to get good questions and good answers, fist we need to think about the basic etiquette that we must adhere to on StackOverflow before asking or answering.
 <br />
@@ -40,6 +42,7 @@ Many programmers in the world face a lot of challenges while programming. Everyo
 
 There are countless times while programming we come across errors or unknown problems. In that case, just “No! I can't!” Instead of asking for help without any effort, we should think about ourselves enough to solve the problem and ask a question that people feel what we have done for solving the problem. StackOverflow is a question and answer site for professionals and avid programmers, so looking at specific questions and code is why software developers can get useful information most of the time from this website. Let's look at a good example of a StackOverflow question that shows signs of specific and varied attempts.
 <br />
+
 ```
 import java.util.Scanner;
 import java.util.Arrays;
