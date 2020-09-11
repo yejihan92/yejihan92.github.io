@@ -5,11 +5,12 @@ image: images/pokemon.jpg
 title: Pokemon GUI (KCC ICS211 project)
 permalink: projects/pokeGUI
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-04
+date: 2020-05-05
 labels:
   - Java
   - Pokemon
   - GUI
+  - Group Project
 summary: GUI (Graphical User Interface) for a hierarchy of Pokemon species that works similarly to Pokemon Go without GPS
 ---
 
