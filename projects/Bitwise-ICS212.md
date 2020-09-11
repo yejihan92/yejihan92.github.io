@@ -35,7 +35,7 @@ int twoComplement(unsigned int number) {
 ```
 twoComplement function needs to calculate the two's complement of the input parameter, so use "~" to return.
 <br />
-```js
+```
 unsigned int charPacker(unsigned char ch1, unsigned char ch2, unsigned char ch3, unsigned char ch4) {
     unsigned int number = 0;
 
@@ -49,7 +49,7 @@ unsigned int charPacker(unsigned char ch1, unsigned char ch2, unsigned char ch3,
 ```
 charPacker function compresses 4 characters into a single integer, so 8-bit characters are compressed into 32-bit integers using the left shift operator << and the bitwise OR operator |.
 <br />
-```js
+```
 void intChopper(unsigned int number, unsigned char* ch1, unsigned char* ch2, unsigned char* ch3, unsigned char* ch4) {
     unsigned int mask = 0x000000FF;
 
@@ -61,7 +61,7 @@ void intChopper(unsigned int number, unsigned char* ch1, unsigned char* ch2, uns
 ```
 Conversely, intChopper function truncates the integer into 4 characters and uses the right shift operator >> and bitwise AND operator & with a mask to separate the 32-bit integer into 4 8-bit parts.
 <br />
-```js
+```
 unsigned int circleLeft(unsigned int count, unsigned int number) {
     return (number << count) | (number >> (32 - count));
 }
