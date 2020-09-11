@@ -93,7 +93,7 @@ Is there anyway to get list of all propertySources.name exposed by config server
 Please let me know if my question is not clear or need more information. Thanks.
 
 ```
-URL: https://stackoverflow.com/questions/39215533/spring-cloud-config-how-to-use-multiple-configs
+You can see more detais at the [Good Question Example](https://stackoverflow.com/questions/39215533/spring-cloud-config-how-to-use-multiple-configs).
 
 Asking this question, he clearly explained his problem step by step. Those who responded to his question also provided information on how to solve the problem one by one and sources for answers to that problem. And anyone who's seen his questions can guess that he has tried several and different ways before posting the question.
 
@@ -111,7 +111,7 @@ How java finds my package?
 
 I am an android beginner please relate a bit to android as well!
 ```
-URL: https://stackoverflow.com/questions/63840848/how-import-keyword-find-other-packages
+You can see more detais at the [Bad Question Example](https://stackoverflow.com/questions/63840848/how-import-keyword-find-other-packages).
 
 We need to look at an example of this question. Such a simple problem can be solved really simply by simply search Google or browsing our computer directory with the least amount of time.
 
