@@ -77,8 +77,7 @@
       "startDate": "2017-08-24",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": ""
     }
   ],
   "work": [
@@ -89,10 +88,7 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
+      "highlights": ""
     },
     {
       "company": "",
@@ -101,10 +97,7 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
+      "highlights": ""
     }
   ],
   "volunteer": [
@@ -115,10 +108,7 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
+      "highlights": ""
     },
     {
       "organization": "",
@@ -127,11 +117,7 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
+      "highlights": ""
     }
   ],
   "awards": [
