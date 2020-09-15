@@ -27,10 +27,11 @@ There are countless times while programming we come across errors or unknown pro
 
 ```
 What I want to try:
-I want to try the spring cloud config for microservice project where I have a common config for 
-all services and multiple configs for each service.
-I got idea on how to use multiple profiles using spring.profiles.active and include. I am trying
-to understand how can I load multiple configs on config client?
+I want to try the spring cloud config for microservice project 
+where I have a common config for all services and multiple configs
+for each service. I got idea on how to use multiple profiles using
+spring.profiles.active and include. I am trying to understand how 
+can I load multiple configs on config client?
 
 
 What I have:
@@ -62,9 +63,10 @@ server:
 
 
 
-I have my spring client where I want to use multiple configs. Here in my case for orderService
-I want to load application.yml,orderclient.yml,jmsconfig.yml and For Product microService 
-I need 'orderconfig.yml,jmsclient.yml,productclient.yml'
+I have my spring client where I want to use multiple configs. Here in
+my case for orderService I want to load 
+application.yml,orderclient.yml,jmsconfig.yml and For Product 
+microService I need 'orderconfig.yml,jmsclient.yml,productclient.yml'
 
 
 spring:
@@ -81,14 +83,17 @@ Above I can access properties from orderclient.yml.
 
 My Question:
 Question1:
-How to access properties of jmsclient.yml,productclient.yml in orderclient application.
+How to access properties of jmsclient.yml,productclient.yml in 
+orderclient application.
 
 Question2:
-Is there anyway to get list of all propertySources.name exposed by config server? 
-where in above case it should dispaly
+Is there anyway to get list of all propertySources.name exposed by 
+config server? where in above case it should dispaly
 
 
-Please let me know if my question is not clear or need more information. Thanks.
+Please let me know if my question is not clear or need more 
+information. Thanks.
+
 
 ```
 You can see more detais at the [Good Question Example](https://stackoverflow.com/questions/39215533/spring-cloud-config-how-to-use-multiple-configs).
