@@ -27,23 +27,26 @@ There are countless times while programming we come across errors or unknown pro
 
 ```
 What I want to try:
-I want to try the spring cloud config for microservice project where I have a common config for all services and multiple configs for each service.
-I got idea on how to use multiple profiles using spring.profiles.active and include. I am trying to understand how can I load multiple configs on config client?
+I want to try the spring cloud config for microservice project where I have a common config for 
+all services and multiple configs for each service.
+I got idea on how to use multiple profiles using spring.profiles.active and include. I am trying
+to understand how can I load multiple configs on config client?
+
 
 What I have:
 In my git repo I have spring-config-repo where I have ...
-```
-```
+
+
 application.yml
 orderclient.yml
 subscriberclient.yml
 jmsclient.yml
 productclient.yml
-```
-```
+
+
 I have my config Server pointed to my config repo.
-```
-```
+
+
 spring:
   application:
   name: config-service
@@ -55,11 +58,15 @@ spring:
 
 server:
  port: 8888
-```
-```    
-I have my spring client where I want to use multiple configs. Here in my case for orderService I want to load application.yml,orderclient.yml,jmsconfig.yml and For Product microService I need 'orderconfig.yml,jmsclient.yml,productclient.yml'
-```
-```
+
+
+
+
+I have my spring client where I want to use multiple configs. Here in my case for orderService
+I want to load application.yml,orderclient.yml,jmsconfig.yml and For Product microService 
+I need 'orderconfig.yml,jmsclient.yml,productclient.yml'
+
+
 spring:
 application:
   name: orderclient
@@ -68,8 +75,8 @@ profiles:
 cloud:
   config:
     uri: http://localhost:8888
-```
-```
+
+
 Above I can access properties from orderclient.yml.
 
 My Question:
@@ -77,19 +84,10 @@ Question1:
 How to access properties of jmsclient.yml,productclient.yml in orderclient application.
 
 Question2:
-Is there anyway to get list of all propertySources.name exposed by config server? where in above case it should dispaly
-```
-```
-"propertySources": {
-  "name": "https://github.com/<>/spring-config-repo/aplication.yml",
-     "profiles": <available profiles for this say> Dev, Test,
-  "name": "https://github.com/<>/spring-config-repo/orderclient.yml",
-     "profiles": <available profiles for this say> Dev, Test
-  "name": "https://github.com/<>/spring-config-repo/jmsclient.yml",
-     "profiles": <available profiles for this say> Dev, Test
- ....}
-```
-```
+Is there anyway to get list of all propertySources.name exposed by config server? 
+where in above case it should dispaly
+
+
 Please let me know if my question is not clear or need more information. Thanks.
 
 ```
@@ -105,7 +103,8 @@ Asking this question, he clearly explained his problem step by step. Those who r
 There are a lot of great questions on StackOverflow, but there are a few things we should avoid. First of all, we should avoid asking questions simply to solve a task without any effort. This makes it impossible for us to program in the future to be creative thinking of programmers. When I can't solve the problem and want to give up due to continuous errors, I think that the greatest attraction of the program is when I solve the errors and succeed and it is the most meaningful. In addition to that, duplicate questions and answers should be avoided. Recently, in Korea, a new era language called "Finger Princess" has emerged when people ask other people around them without even searching for a problem. So, we have to look for similar answers or similar examples to our problem that someone has already done.
 
 ```
-If I save my A Package in a different directory and trying to import A Package from B Program, how do I do that?
+If I save my A Package in a different directory and trying to import A Package 
+from B Program, how do I do that?
 
 How java finds my package?
 
