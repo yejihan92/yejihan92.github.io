@@ -19,7 +19,6 @@ labels:
 
 ## Good coding is good writing, good code is good writing
 
-<ul>
 Today I thought a lot about essays and program coding, and I realized that 'coding' was no different from 'writing'. Coding and writing have a lot in common, such as creating something from nothing, shaping the clues of invisible thoughts into visible shapes, working alone, but constantly paying attention to the world and the thoughts of others. Also, coding is writing that expresses one's thoughts. We do essay assignments in class. However, the task to write essays for us is not to make all the students into writers, but to write the essay task because it helps to share our ideas systematically and logically with many people. Therefore, what we write and learn to code is not just learning the techniques of programming through coding, we can directly think about what to code and how to code (such as creative and logical, computer thinking) and create the desired function. It will be a good opportunity for us to create many things!
 <br />
 <br />
@@ -48,10 +47,6 @@ Students taking classes according to the ICS314 class instructional guidelines h
 <img class="ui centered large image" src="../images/clearError.png">
 <br />
 Now we are ready to do good coding!
-<br />
-<br />
-
-</ul>
 
 <br />
 <br />
