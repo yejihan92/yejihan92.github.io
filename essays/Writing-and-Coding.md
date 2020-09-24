@@ -50,7 +50,9 @@ Students taking classes according to the ICS314 class instructional guidelines h
 Now we are ready to do good coding!
 <br />
 <br />
+
 </ul>
+
 <br />
 <br />
 <br />
