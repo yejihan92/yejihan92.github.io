@@ -38,7 +38,7 @@ In programming, readability refers to the degree to which a program is easy to r
 <br />
 <br />
 
-## Conclusion 
+## Conclusion
 
 <img class="ui centered large image" src="../images/exampleESLint.png">
 
