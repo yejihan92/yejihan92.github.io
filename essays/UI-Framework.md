@@ -27,7 +27,6 @@ UI framework is an abbreviation for user interface. We can think of it as a fram
 ## Advantages of UI Framwork
 
 About the advantages of the UI framework that I think, the first is that we can create a UI that feels good enough without writing CSS. CSS and JavaScript technology are required to represent standard html pages on the web screen, but UI framework technology enables web development without writing CSS. In addition, the web UI framework supports web and app development so that we can easily and quickly create web interfaces. If we use the UI framework, we can create sophisticated results in a short time because UI framework provides a common development environment, so we can unify our development environment and save development time and cost.
-
 <br />
 <br />
 <br />
