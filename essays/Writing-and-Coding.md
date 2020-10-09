@@ -29,7 +29,7 @@ First of all, the format of a basic English essay follows the format of <Introdu
 <br />
 <br />
 <br />
-<img class="ui centered large image" src="../images/examplesForStandard.png">
+<img class="ui centered large image" src="../images/examplesForStandard.png" width="100%" height="100%">
 <br />
 In programming, readability refers to the degree to which a program is easy to read. In other words, the high readability of the program means that anyone can see the program and understand it easily. So, what can we do to make your program more readable? If we code by following the detailed rules, the program will be highly readable.
 <br />
@@ -41,7 +41,7 @@ In programming, readability refers to the degree to which a program is easy to r
 <img class="ui centered large image" src="../images/exampleESLint.png">
 Students taking classes according to the ICS314 class instructional guidelines have been using an IDE, which are 'IntelliJ' and ESLint to provide style guidance for a week. ESLint isn't quite familiar with how to use it yet, so I found a way to use it and I'm still immature, but I have no doubts believing that if you take advantage of the usefulness it provides us, we'll be able to write a bit more readable code. Coding according to standard rules will improve accuracy and efficiency in the development process, which will shorten development time.
 <br />
-<img class="ui centered large image" src="../images/clearError.png">
+<img class="ui centered large image" src="../images/clearError.png" width="100%" height="100%">
 <br />
  Now we are ready to do good coding!
   
