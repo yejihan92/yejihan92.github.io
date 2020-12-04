@@ -65,7 +65,9 @@ Considering the dictionary meanings of the two words together, a design pattern 
 <br />
 <br />
 <br />
+
 ## Design patterns in software engineering 
+
 <p align="center">
 <img class="ui centered large image" src="../images/design.png">
 </p>
@@ -76,6 +78,7 @@ By definition, design patterns are common and reusable solutions to problems com
 <br />
   
 ## Conclusion 
+
 <br />
 <p align="center">
 <img class="ui centered large image" src="../images/types-of-design-patterns.png">
