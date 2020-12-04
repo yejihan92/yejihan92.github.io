@@ -63,9 +63,9 @@ Considering the dictionary meanings of the two words together, a design pattern 
 <br />
 <br />
 ## Design patterns in software engineering 
-
+<p align="center">
 <img class="ui centered large image" src="../images/design.png">
-
+</p>
 By definition, design patterns are common and reusable solutions to problems commonly encountered in software design. That means we don't have to rebuild something from scratch that's already well built, and works well. Software engineers face a lot of problem situations while developing their programs. It would be really useful if we remember how we solved the problem situation so that we can apply the solution when faced with a similar problem again. The most attractive of the software engineering design patterns I have chosen is that the "design pattern" is a reusable, proven solution that can be used when designing software or when chronic problems arise that often occur in certain situations. These solutions are well documented, already widely used, and proven to be reliable, reducing technical risk to our project.
 <br />
 <br />
@@ -73,9 +73,10 @@ By definition, design patterns are common and reusable solutions to problems com
 <br />
   
 ## Conclusion 
-
 <br />
+<p align="center">
 <img class="ui centered large image" src="../images/types-of-design-patterns.png">
+</p>
 <br />
 Design patterns help accelerate the development process by providing a proven development paradigm. Therefore, I believe that good developers understand design patterns, identify scenarios and problems that the pattern needs to solve in the software design process, and find and apply the appropriate pattern for that problem as one of the important factors.
 <br />
