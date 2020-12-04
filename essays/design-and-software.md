@@ -15,13 +15,12 @@ labels:
 <br />
 <br />
 <p align="center">
-<img class="ui image" src="/images/reflect.jpg" width="100%" height="100%"/>
+<img class="ui image" src="/images/design-pattern.png" width="100%" height="100%"/>
 </p>
  
 ## First impression of the design pattern
 
 In the last class, our professor told us that the topic of the next essay was design patterns, and I thought it was a little new. The curriculum schedule for ICS 314 class has been based on understanding of programming and software. And on the one hand, I did not understand. Should the programmers also design? I thought. However, I have to write an essay, so in the process of searching and understading data on design patterns, the design patterens of software engineering will be little different from what I imagined.  
-
 <br />
 <br />
 <br />
@@ -55,15 +54,19 @@ noun
     2. any regularly repeated arrangement, especially a design made from repeated lines, shapes, or colours on a surface
     3. something that is used as an example, expecially to copy
 ```
+
 In other words, it can be thought that "pattern" is a specific aspect in which something is done, and it refers to something that has a repetitive form.
 <br />
 <br />
+Considering the dictionary meanings of the two words together, a design pattern is interpreted as a specific repetitive aspect of a plan to create something.
 <br />
-<img class="ui centered large image" src="../images/examplesForStandard.png">
+<br />
+<br />
+## Design patterns in software engineering 
 
-## Conclusion 
+<img class="ui centered large image" src="../images/design.png">
 
-
+By definition, design patterns are common and reusable solutions to problems commonly encountered in software design. That means we don't have to rebuild something from scratch that's already well built, and works well. Software engineers face a lot of problem situations while developing their programs. It would be really useful if we remember how we solved the problem situation so that we can apply the solution when faced with a similar problem again. The most attractive of the software engineering design patterns I have chosen is that the "design pattern" is a reusable, proven solution that can be used when designing software or when chronic problems arise that often occur in certain situations. These solutions are well documented, already widely used, and proven to be reliable, reducing technical risk to our project.
 <br />
 <br />
 <br />
@@ -71,13 +74,10 @@ In other words, it can be thought that "pattern" is a specific aspect in which s
   
 ## Conclusion 
 
-<img class="ui centered large image" src="../images/exampleESLint.png">
-Students taking classes according to the ICS314 class instructional guidelines have been using an IDE, which are 'IntelliJ' and ESLint to provide style guidance for a week. ESLint isn't quite familiar with how to use it yet, so I found a way to use it and I'm still immature, but I have no doubts believing that if you take advantage of the usefulness it provides us, we'll be able to write a bit more readable code. Coding according to standard rules will improve accuracy and efficiency in the development process, which will shorten development time.
 <br />
-<img class="ui centered large image" src="../images/clearError.png">
+<img class="ui centered large image" src="../images/types-of-design-patterns.png">
 <br />
- Now we are ready to do good coding!
-  
+Design patterns help accelerate the development process by providing a proven development paradigm. Therefore, I believe that good developers understand design patterns, identify scenarios and problems that the pattern needs to solve in the software design process, and find and apply the appropriate pattern for that problem as one of the important factors.
 <br />
 <br />
 <br />
