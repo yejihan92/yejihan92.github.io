@@ -31,6 +31,7 @@ To understand what a design pattern is, let's check the dictionary meaning of th
 <br />
 Design pattern is a combination of the two words design + pattern.
 <br />
+<br />
 
 ```
 < design >
@@ -43,10 +44,10 @@ verb
     1. to make or draw plans for something, for examples clothes or buildings
     2. to intend
 ```
-
+<br />
 In other words, we can think of "design" as something like a plan or design to make something.
 <br />
-
+<br />
 ```
 < pattern >
 noun
@@ -54,7 +55,7 @@ noun
     2. any regularly repeated arrangement, especially a design made from repeated lines, shapes, or colours on a surface
     3. something that is used as an example, expecially to copy
 ```
-
+<br />
 In other words, it can be thought that "pattern" is a specific aspect in which something is done, and it refers to something that has a repetitive form.
 <br />
 <br />
