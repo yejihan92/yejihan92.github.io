@@ -48,6 +48,7 @@ verb
 In other words, we can think of "design" as something like a plan or design to make something.
 <br />
 <br />
+
 ```
 < pattern >
 noun
@@ -55,6 +56,7 @@ noun
     2. any regularly repeated arrangement, especially a design made from repeated lines, shapes, or colours on a surface
     3. something that is used as an example, expecially to copy
 ```
+
 <br />
 In other words, it can be thought that "pattern" is a specific aspect in which something is done, and it refers to something that has a repetitive form.
 <br />
