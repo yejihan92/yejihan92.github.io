@@ -33,7 +33,6 @@ A good developer is a developer who writes code that guarantees extensibility an
 <img class="ui centered large image" src="../images/functional-programming.png">
 </p>
 Functional programming refers to a method of developing software by combining functions. The programming method used so far has been object-oriented programming. In object-oriented programming, software was developed by combining objects, but this time, the idea is to combine functions. The advantage of functional programming is that it emphasizes pure functions to reduce errors and combines pure functions to increase the level of modularity. When looking at the advantages of functional programming, there was the keyword concise expression; concise means easy to read, and if anyone who understands functional programming can easily read it, it means that it is easy to add or remove new features. Soon, easy-to-read code becomes safe code. Many of the advantages of functional programming eventually boil down to helping you write safe code.<br />
-Design pattern is a combination of the two words design + pattern.
 <br />
 <br />
 <br />
