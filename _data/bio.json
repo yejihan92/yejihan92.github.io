@@ -6,9 +6,9 @@
     "email": "hany7@hawaii.edu",
     "phone": "808-260-3860",
     "website": "https://yejihan92.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
+    "summary": "I am a senior studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
     "location": {
-      "address": "1674 Lewalani dr #B",
+      "address": "1674 Lewalani Dr",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -18,54 +18,65 @@
       {
         "network": "github",
         "username": "yejihan92",
-        "url": "http://github.com/yejihan92"
+        "url": "https://github.com/yejihan92/yejihan92.github.io"
       },
       {
         "network": "linkedin",
         "username": "hany7@hawaii.edu",
+        "url": "https://www.linkedin.com/in/woojoon-hwang-93014b178/"
+      },
+      {
+        "network": "Instagram",
+        "username": "wooh_21",
         "url": "http://linkedin.com/in/yeji-han-063b231b5"
       }
     ]
   },
   "interests": [
     {
-      "name": "java",
+      "name": "Database",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Java",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Software Developing",
       "keywords": [
       ]
     },
     {
-      "name": "game",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "software engineering",
+      "name": "Game",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Java programming",
+      "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Html",
+        "React",
+        "Meteor",
       ]
     },
     {
-      "name": "",
+      "name": "Tools",
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++"
       ]
     }
   ],
@@ -74,10 +85,84 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2017-08-24",
+      "startDate": "2020-08-24",
       "endDate": "Present",
-      "gpa": "",
-      "courses": ""
+      "gpa": "3.49",
+      "courses": [
+        "ICS 311: Algorithms",
+        "ICS 314: Software Engineering I",
+      ]
+    },
+    {
+      "institution": "University of Hawaii: Kapi'olani Community College, Honolulu, Hawaii",
+      "area": "Computer Science",
+      "studyType": "A.A.",
+      "startDate": "2017-08-21",
+      "endDate": "2020-07-10",
+      "gpa": "3.49",
+      "courses": [
+        "COM 201: WI-Intro to Communication",
+        "HWST 107: Hawai`i: Center of Pacific",
+        "ICS 111: Intro to Computer Science I",
+        "ICS 211: Intro to Computer Science II",
+        "ICS 212: Program Structure",
+        "ICS 141: Discrete Math for Comp Sci I",
+        "ICS 241: Discrete Math for Comp Sci II",
+        "MATH 241: Calculus I",
+        "MATH 242: Calculus II",
+      ]
+    }
+  ],
+  "work":[
+    {
+      "company": "The Catholic University of Korea Seoul St. Mary's Hospital",
+      "position": "Assistant",
+      "startDate": "2013-09-02",
+      "endDate": "2015-09-18",
+      "highlights" :[
+        "Assisting management of medical exmaination items",
+        "Explaining the checkup to the health checkup subjects",
+        "Adjusting the health checkup schedule"
+      ]
+    },
+     {
+      "company": "Seoul National University Bundang Hospital, SNUBH",
+      "position": "Assistant",
+      "startDate": "2015-10-06",
+      "endDate": "2017-07-14",
+      "highlights" :[
+        "Assisting management of medical exmaination items",
+        "Explaining the checkup to the health checkup subjects",
+        "Adjusting the health checkup schedule"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "site": "Kapi‘olani Community College",
+      "position": "Tutor",
+      "startDate": "2019-02-04",
+      "endDate": "2019-05-13",
+      "highlights" :[
+        "Assisting Korean teacher during the Korean lecturing",
+        "Tutoring Korean for students who learn Korean classes"
+
+      ]
+    }
+
+  ],
+  "awards": [
+    {
+      "title": "Manoa Opportunity Grant",
+      "date": "2020-2021",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Graduate students enrolled in a 1 credit full-time course will not be considered for this grant."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
     }
   ]
 }
