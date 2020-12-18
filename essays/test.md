@@ -1,77 +1,50 @@
 ---
 layout: essay
 type: essay
-title: Design and Software
+title: Good Software Developers
 # All dates must be YYYY-MM-DD format!
-date: 2020-12-03
+date: 2020-12-17
 labels:
   - Coding
+  - Functional
+  - Programming
   - Design
   - Pattern
   - Essay
-  - Programming
   - Software
+  - Development
 ---
 <br />
 <br />
 <p align="center">
-<img class="ui image" src="/images/design-pattern.png" width="100%" height="100%"/>
+<img class="ui image" src="/images/good-developer.png" width="100%" height="100%"/>
 </p>
  
-## First impression of the design pattern
+## A developer who wants to be worked with
 
-In the last class, our professor told us that the topic of the next essay was design patterns, and I thought it was a little new. The curriculum schedule for ICS 314 class has been based on understanding of programming and software. And on the one hand, I did not understand. Should the programmers also design? I thought. However, I have to write an essay, so in the process of searching and understading data on design patterns, the design patterens of software engineering will be little different from what I imagined.  
+A good developer is a developer who writes code that guarantees extensibility and readability in consideration of the development environment and required specifications? They write code that is easy to understand, maintainable and versatile for the developers they work with. In order to write the above-mentioned maintainable and scalable code, you need to be familiar with the programming language and framework you use, as well as general clean code writing techniques. Maybe more study is needed than now.
 <br />
 <br />
 <br />
   
-## Meaning of the name design pattern (dictionary meaning)
+## What is functional programming?
 
-To understand what a design pattern is, let's check the dictionary meaning of the name "design pattern".
-<br />
+<p align="center">
+<img class="ui centered large image" src="../images/functional-programming.png">
+</p>
+Functional programming refers to a method of developing software by combining functions. The programming method used so far has been object-oriented programming. In object-oriented programming, software was developed by combining objects, but this time, the idea is to combine functions. The advantage of functional programming is that it emphasizes pure functions to reduce errors and combines pure functions to increase the level of modularity. When looking at the advantages of functional programming, there was the keyword concise expression; concise means easy to read, and if anyone who understands functional programming can easily read it, it means that it is easy to add or remove new features. Soon, easy-to-read code becomes safe code. Many of the advantages of functional programming eventually boil down to helping you write safe code.<br />
 Design pattern is a combination of the two words design + pattern.
 <br />
 <br />
-
-```
-< design >
-noun 
-    1. a drawing or set of drawings showing how a building or product is to be made and how it will work and look
-    2. the art of making plans or drawings for something
-    3. the way in which something is planned and made
-
-verb
-    1. to make or draw plans for something, for examples clothes or buildings
-    2. to intend
-```
-<br />
-In other words, we can think of "design" as something like a plan or design to make something.
 <br />
 <br />
 
-```
-< pattern >
-noun
-    1. a particular way in which something is done, is organized, or happens
-    2. any regularly repeated arrangement, especially a design made from repeated lines, shapes, or colours on a surface
-    3. something that is used as an example, expecially to copy
-```
-
-<br />
-In other words, it can be thought that "pattern" is a specific aspect in which something is done, and it refers to something that has a repetitive form.
-<br />
-<br />
-Considering the dictionary meanings of the two words together, a design pattern is interpreted as a specific repetitive aspect of a plan to create something.
-<br />
-<br />
-<br />
-
-## Design patterns in software engineering 
+## Software development and design pattern
 
 <p align="center">
-<img class="ui centered large image" src="../images/design.png">
+<img class="ui centered large image" src="../images/design-pattern-1.jpg">
 </p>
-By definition, design patterns are common and reusable solutions to problems commonly encountered in software design. That means we don't have to rebuild something from scratch that's already well built, and works well. Software engineers face a lot of problem situations while developing their programs. It would be really useful if we remember how we solved the problem situation so that we can apply the solution when faced with a similar problem again. The most attractive of the software engineering design patterns I have chosen is that the "design pattern" is a reusable, proven solution that can be used when designing software or when chronic problems arise that often occur in certain situations. These solutions are well documented, already widely used, and proven to be reliable, reducing technical risk to our project.
+Design patterns are reusable solutions to problems that occur in software design in specific contexts in software engineering. It is not a complete design that can be converted directly to source or machine code, but is a description or template used to solve problems that can be used in different situations. Therefore, Design patterns present a common solution to object-oriented design problems. One of the advantages of becoming familiar with learning design patterns is that we can become familiar with these common issues. Once we and our team understand the design patterns, we can quickly catch up on what our colleagues intended for the design.
 <br />
 <br />
 <br />
@@ -81,10 +54,10 @@ By definition, design patterns are common and reusable solutions to problems com
 
 <br />
 <p align="center">
-<img class="ui centered large image" src="../images/types-of-design-patterns.png">
+<img class="ui centered large image" src="../images/work.jpg">
 </p>
 <br />
-Design patterns help accelerate the development process by providing a proven development paradigm. Therefore, I believe that good developers understand design patterns, identify scenarios and problems that the pattern needs to solve in the software design process, and find and apply the appropriate pattern for that problem as one of the important factors.
+If the main paradigm of the language used is object-oriented, the solution to all problems is always object-oriented. However, most modern programming languages have multiple paradigms. In other words, learning to use different paradigms to suit your problem is one of the ways to evolve into a better developer.
 <br />
 <br />
 <br />
