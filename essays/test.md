@@ -56,7 +56,7 @@ Design patterns are reusable solutions to problems that occur in software design
 <img class="ui centered large image" src="../images/work.jpg">
 </p>
 <br />
-If the main paradigm of the language used is object-oriented, the solution to all problems is always object-oriented. However, most modern programming languages have multiple paradigms. In other words, learning to use different paradigms to suit your problem is one of the ways to evolve into a better developer.
+If the main paradigm of the language used is object-oriented, the solution to all problems is always object-oriented. However, most modern programming languages have multiple paradigms. In other words, learning to use different paradigms to suit our problem is one of the ways to evolve into a better developer.
 <br />
 <br />
 <br />
