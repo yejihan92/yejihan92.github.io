@@ -33,7 +33,6 @@ ManoaEats provides dining information on the UHM campus. The ManoaEats web appli
 <br />
 
 You can see more detais at the [ManoaEats](https://manoaeats.github.io/).
-
 Link to GitHub: <a href="https://github.com/manoaeats/manoaeats"><i class="large github icon "></i>https://github.com/manoaeats/manoaeats</a>
 
 <br />
