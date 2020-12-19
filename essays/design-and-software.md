@@ -20,7 +20,7 @@ labels:
  
 ## First impression of the design pattern
 
-In the last class, our professor told us that the topic of the next essay was design patterns, and I thought it was a little new. The curriculum schedule for ICS 314 class has been based on understanding of programming and software. And on the one hand, I did not understand. Should the programmers also design? I thought. However, I have to write an essay, so in the process of searching and understading data on design patterns, the design patterens of software engineering will be little different from what I imagined.  
+In the last class, our professor told us that the topic of the next essay would be design patterns, and I thought it was a little new. The curriculum schedule for ICS 314 class has been based on understanding of programming and software. And on the one hand, I did not understand. Should the programmers also design? I thought. However, I have to write an essay, so in the process of searching and understanding data on design patterns, the design patterens of software engineering will be little different from what I imagined.  
 <br />
 <br />
 <br />
@@ -61,7 +61,7 @@ noun
 In other words, it can be thought that "pattern" is a specific aspect in which something is done, and it refers to something that has a repetitive form.
 <br />
 <br />
-Considering the dictionary meanings of the two words together, a design pattern is interpreted as a specific repetitive aspect of a plan to create something.
+Considering the dictionary meanings of the two words together, a design pattern is considered as a specific repetitive aspect of a plan to create something.
 <br />
 <br />
 <br />
@@ -71,7 +71,7 @@ Considering the dictionary meanings of the two words together, a design pattern 
 <p align="center">
 <img class="ui centered large image" src="../images/design.png">
 </p>
-By definition, design patterns are common and reusable solutions to problems commonly encountered in software design. That means we don't have to rebuild something from scratch that's already well built, and works well. Software engineers face a lot of problem situations while developing their programs. It would be really useful if we remember how we solved the problem situation so that we can apply the solution when faced with a similar problem again. The most attractive of the software engineering design patterns I have chosen is that the "design pattern" is a reusable, proven solution that can be used when designing software or when chronic problems arise that often occur in certain situations. These solutions are well documented, already widely used, and proven to be reliable, reducing technical risk to our project.
+By the definition, design patterns are common and reusable solutions to problems commonly encountered in software design. That means we don't have to rebuild something from scratch that's already built, and works well. Software engineers face a lot of problems while developing their programs. It would be really useful if we remember how we solved the problem situation so that we can apply the solution when faced with a similar problem again. The most attractive aspect from the software engineering design patterns for me is that the "design pattern" is a reusable, proven solution that can be used when designing software or when chronic problems arise that often occur in certain situations. These solutions are well documented, already widely used, and proven to be reliable, reducing technical risk to our project.
 <br />
 <br />
 <br />
