@@ -30,8 +30,11 @@ First of all, the format of a basic English essay follows the format of <Introdu
 <br />
 <br />
 <img class="ui centered large image" src="../images/examplesForStandard.png">
+  
 <br />
+  
 In programming, readability refers to the degree to which a program is easy to read. In other words, the high readability of the program means that anyone can see the program and understand it easily. So, what can we do to make your program more readable? If we code by following the detailed rules, the program will be highly readable.
+
 <br />
 <br />
 <br />
