@@ -39,10 +39,15 @@ In programming, readability refers to the degree to which a program is easy to r
 ## Conclusion 
 
 <img class="ui centered large image" src="../images/exampleESLint.png">
+
 Students taking classes according to the ICS314 class instructional guidelines have been using an IDE, which are 'IntelliJ' and ESLint to provide style guidance for a week. ESLint isn't quite familiar with how to use it yet, so I found a way to use it and I'm still immature, but I have no doubts believing that if you take advantage of the usefulness it provides us, we'll be able to write a bit more readable code. Coding according to standard rules will improve accuracy and efficiency in the development process, which will shorten development time.
+
 <br />
+
 <img class="ui centered large image" src="../images/clearError.png">
+
 <br />
+
  Now we are ready to do good coding!
   
 <br />
