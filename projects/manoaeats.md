@@ -16,14 +16,12 @@ labels:
 summary: UHM ICS314 final group project
 ---
 <br />
-<br />
 <p align="center">
 <img class="ui image" src="/images/user-home.png" width="100%" height="100%"/>
 </p>
  
 ## ManoaEats!
 
-<br />
 <p align="center">
 <img class="ui image" src="/images/vendor-list1.png" width="100%" height="100%"/>
 <img class="ui image" src="/images/vendor-list2.png" width="100%" height="100%"/>
