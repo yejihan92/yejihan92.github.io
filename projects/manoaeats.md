@@ -49,11 +49,17 @@ To complete our team project, I built up a page and vendor data to provide users
 ## Review 
 
 <br />
-When I first started the ICS314 Final Team project, I was in tremendous confusion. There were several reasons. First of all, if I fail or give up on a project that I do on my own, I can revert to something that wasn't there, but working together as a group is no longer an option. In a situation where there are various schedules, such as various plans, assignments of other classes, existing projects, school schedules, etc., I thought to learn from the basics of the front end and have to start from beginning. In particular, I myself thought that I was not confident in design and UI, and I also lacked understanding of CSS or Javascript. However, with a sense of responsibility, I thought that I should do my part even if it did not help the team members. As a result, during the month of working on the project, I stayed up almost all night and put more effort than usual.      
+
+When I first started the ICS314 Final Team project, I was tremendously confused. First of all, while I could go back and fix a problem if I fail in a personal project, that wasn’t an option for a group project. 
 
 <br />
 
-In the process of working on this project, I realized a lot. Firstly, I felt that the front end is really attractive programming. Unlike the Java, C, and C++ programming languages that I have learned before, Javascript was very interested and amazing that the process I was working on was immediately visible on the local website, not on the console window. The second thing I realized was, "I don't have to be scared from the beginning." As I said above, I have found it to be such a fun and exciting thing to collaborate with someone other than me. No matter how great a developer I am, I learned the synergy that comes from the team rather than the individual.
+Having to carry out numerous projects in a short period of time, whether to learn front-end from the basics or not was an issue. For instance, there were areas which I was not so confident about, such as UI, design, CSS and Javascript as part of the project. However, with a sense of responsibility I put in as much effort as I can. As a result, by staying up all night during the project, I was able to finish my own part. 
+
+<br />
+
+This project taught me a lot. Firstly I realized how attractive front-end programming is. Unlike programming languages that I have learned before including Java, C, and C++, Javascript was interesting in the way that the process could be immediately visualized on the local website and not the console window. Additionally, this process taught me that I do not have to be afraid before trying. Unlike my expectations of working in a group project, our project turned out great. Synergy that comes from a team cannot be replaceable, just like how fun and excitement from collaboration can’t either.
+
 <br />
 <br />
 
