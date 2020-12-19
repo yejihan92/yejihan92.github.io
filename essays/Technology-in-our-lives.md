@@ -60,6 +60,7 @@ All of this is done with the help of technology. Development of this technology 
   
 ## Conclusion
 
+
 I realized that the relationship between technology and society is not simply a general-passive relationship in which the development of technology affects society, but a two-way relationship in which a specific atmosphere or demand of society affects the development of new technologies.
 
 </ul>
